@@ -33,8 +33,6 @@
 - **Quy tắc và hành động sửa:** Một instance phải là một object duy nhất dù bị che khuất một phần — phần bị che vẫn thuộc cùng instance đó. Tôi xóa hai mảnh rời, vẽ lại thành một mask liên tục bao phủ toàn bộ xe (kể cả vùng bị người che) thành một shape duy nhất.
 - **Sau sửa đã Save và export lại chưa?** Đã Save trong CVAT và export lại `medium_instance.zip`.
 
-Chưa chạy scoring script sau khi sửa — sẽ kiểm tra sau khi nộp.
-
 ## 4. Ba ca chưa chắc hoặc đã cân nhắc
 
 | Ảnh/vị trí | Hai cách hiểu có thể | Quy tắc/chứng cứ | Quyết định hoặc câu hỏi cho coach |
